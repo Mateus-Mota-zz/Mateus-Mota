@@ -1,18 +1,17 @@
-<h1 align=center> Hi there :wave: <br>About me </p>
+<h2>Hey, my name is Mateus. I am a student in the graduation of Computer Networks at IFPB and enthusiast in programming and network automation.</h2>
 
-### My name is Mateus, I am a student in the graduation of Computer Networks at IFPB and enthusiast in programming and network automation.
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusmotaa/)](https://www.linkedin.com/in/mateusmotaa/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusmota0100@gmail.com)](mailto:mateusmota0100@gmail.com)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Mota&layout=compact&langs_count=7&theme=dark"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Mota&show_icons=true&theme=dark&include_all_commits=true"></img>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mateus-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+</div>
 
-# 
-<br></br>
-# 
-- Skills:
-  - Python :snake:
-  - Bash :penguin:
+#
 
-<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Mota&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/mateusmotaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateusmota0100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div
