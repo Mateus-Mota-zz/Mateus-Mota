@@ -1,8 +1,8 @@
-<h2>Hey, my name is Mateus. I am a student in the graduation of Computer Networks at IFPB and enthusiast in programming and network automation.</h2>
+## Hey, my name is Mateus. I am a student in the graduation of Computer Networks at IFPB and enthusiast in programming and network automation.
 
-<div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Mota&layout=compact&langs_count=7&theme=dark"></img>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Mota&show_icons=true&theme=dark&include_all_commits=true"></img>
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Mota&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Mota&show_icons=true&theme=dark&include_all_commits=true"/>
 </div>
   
 <div style="display: inline_block"><br>
