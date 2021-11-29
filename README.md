@@ -1,10 +1,3 @@
-<div style="display: inline_block">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Mota&layout=compact&langs_count=7&theme=dark"/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Mota&show_icons=true&theme=dark&include_all_commits=true"/>
-</div>
-
-<br>
-
 ## Hey, eu sou Mateus e vou apresentar um pouco sobre mim:
 
 - Estudande de Redes de Computadores no IFPB.
@@ -12,6 +5,11 @@
 - Interesses: Python, Bash, Linux e Automação
 
 <br>
+
+<div style="display: inline_block">
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Mota&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Mota&show_icons=true&theme=dark&include_all_commits=true"/>
+</div>
 
 ## Skills
 
