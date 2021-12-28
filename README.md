@@ -1,8 +1,8 @@
 ## Hey, eu sou Mateus e vou apresentar um pouco sobre mim:
 
 - Estudande de Redes de Computadores no IFPB.
-- Aprendiz de Teleserviços na Tely
-- Interesses: Python, Bash, Linux e Automação
+- Aprendiz de Suporte na Tely
+- Interesses: Python, Bash e Linux
 
 <br>
 
