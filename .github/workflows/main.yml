@@ -12,6 +12,7 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    
     steps:
       # Snake Animation
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
