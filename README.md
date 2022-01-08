@@ -2,7 +2,8 @@
 
 - Estudande de Redes de Computadores no IFPB.
 - Aprendiz de Suporte na Tely
-- Interesses: Python, Bash e Linux
+- Interesses: Python, Bash, Linux e Cloud Computing
+- Futuro Engenheiro Devops
 
 <br>
 
