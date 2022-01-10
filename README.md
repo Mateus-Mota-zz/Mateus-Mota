@@ -1,4 +1,4 @@
-## Hey, eu sou Mateus e vou apresentar um pouco sobre mim:
+## Hey, eu sou o Mateus e vou apresentar um pouco sobre mim:
 
 - Estudande de Redes de Computadores no IFPB.
 - Aprendiz de Suporte na Tely
