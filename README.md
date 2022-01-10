@@ -30,7 +30,7 @@
 
 <br>
 
-## Habilidades e Ferramentas desejadas em desenvolvimento
+## Habilidades e Ferramentas desejadas em processo de desenvolvimento
 
 <div style="display: inline_block">
  <img align="center" alt="Mateus-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
