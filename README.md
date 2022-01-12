@@ -3,7 +3,6 @@
 - Estudande de Redes de Computadores no IFPB
 - Aprendiz de Suporte na Tely
 - Interesses: Python, Bash, Cloud Computing e Monitoramento de Redes
-- Futuro Engenheiro Devops
           
 <br>
 
