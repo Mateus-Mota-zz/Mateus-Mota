@@ -2,7 +2,8 @@
 
 - Estudande de Redes de Computadores no IFPB
 - Aprendiz de Suporte na Tely
-- Interesses: Python, Bash, Cloud Computing e Monitoramento de Redes
+- Interesses: Python, Bash e Cloud Computing.
+- Futuro Engenheiro DevOps
           
 <br>
 
@@ -20,7 +21,6 @@
   <img align="center" alt="Mateus-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Mateus-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
   <img align="center" alt="Mateus-CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
-  <img align="center" alt="Mateus-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Mateus-VIM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
   <img align="center" alt="Mateus-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  
@@ -33,13 +33,13 @@
 
 <div style="display: inline_block">
  <img align="center" alt="Mateus-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
- <img align="center" alt="Mateus-Vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
  <img align="center" alt="Mateus-NGinx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
  <img align="center" alt="Mateus-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />]
+ <img align="center" alt="Mateus-Vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+ <img align="center" alt="Mateus-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />  
+ <img align="center" alt="Mateus-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
  <img align="center" alt="Mateus-Jenkis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
  <img align="center" alt="Mateus-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
- <img align="center" alt="Mateus-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
- <img align="center" alt="Mateus-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
  <img align="center" alt="Mateus-GoogleCloudPlatform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
  <img align="center" alt="Mateus-AmazonWebServices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
  <img align="center" alt="Mateus-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
